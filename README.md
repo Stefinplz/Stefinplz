@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Stephan.
+- 👀 I’m interested in cyber security.
+- 🌱 I’m currently learning computing systems @ ulster university.
